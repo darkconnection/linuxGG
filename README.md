@@ -2,5 +2,5 @@
 Go For It
 ## Usage:
 ``` bash
-curl -s https://raw.githubusercontent.com/eviatam/linuxGG/master/scream.sh|bash
+curl -s https://raw.githubusercontent.com/eviatam/linuxGG/master/GG.sh|bash
 ```
